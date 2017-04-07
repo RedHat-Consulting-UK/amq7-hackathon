@@ -11,4 +11,6 @@
 - Fully Qualified Queue names (FQQN) - seems the way to go for queues.
 - Pre-create in config to fully control addresses.
 - Filter messages at queue and consumer level.
+- On linux, we can use Libaio for better performance - http://activemq.apache.org/artemis/docs/2.0.0/libaio.html
+- HA options are shared (NFS) or replication (Over network) - http://activemq.apache.org/artemis/docs/2.0.0/ha.html
 - 
