@@ -1,4 +1,4 @@
-# AMQ7 (Apache Artemis)
+# JBoss AMQ7 (Apache Artemis)
     https://activemq.apache.org/artemis/
 
     Apache ActiveMQ Artemis has a proven non blocking architecture. It delivers outstanding performance.
@@ -17,7 +17,8 @@ As AMQ7 has not been released (as of early April 2017) yet, you can either get f
 
 ## High level differences of AMQ6 vs AMQ7
     http://activemq.apache.org/artemis/migration/
-    
+
+- Big push to use standardised protocols, i.e.: AMQP and MQTT
 - No more TCP vs NIO, everything is NIO.
 - KahaDB is dead. Long live "append-only message journal".
 - Journal is memory based (written to disk only when required), so depending on use case, settings might need to be tweaked.
