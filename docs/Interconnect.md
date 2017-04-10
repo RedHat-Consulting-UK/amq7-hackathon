@@ -9,9 +9,10 @@ Docs and source:
 
 The below training was provided to the SA team internally. Its a good start for 10 to follow:
 - https://github.com/rh-messaging/amq7-training
-- https://docs.google.com/a/redhat.com/presentation/d/1mu96BX6lmE808vBxDqYAQkqvoXcNvxi8hiyThQ-duTI/edit?usp=sharing
 
 ## Concepts
+    https://docs.google.com/a/redhat.com/presentation/d/1mu96BX6lmE808vBxDqYAQkqvoXcNvxi8hiyThQ-duTI/edit?usp=sharing
+    
 - Co-located router with AMQ7 broker; all connections to router, *"Connection concentrator"*
 - Router in DMZ or public network which proxies to a broker on an internal network or bound to a private ip, *"Broker Isolation"*
 - Separate the clients from the brokers by creating intelligent routers, *"Broker Virtualization"*
