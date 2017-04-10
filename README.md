@@ -1,6 +1,8 @@
 [![License](https://img.shields.io/hexpm/l/plug.svg?maxAge=2592000)]()
 
 # AMQ7 Hackathon
+This repo contains information collected from engineer presentations and mailing lists. It should provide enough information for a consultant to have an basic understanding on the new concepts coming with AMQ7 and associated products. 
+
 ## Who ?
 AMQ7 UKI Consulting meet-up with:
 - [Gareth Healy](https://github.com/garethahealy)
