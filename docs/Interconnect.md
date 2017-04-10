@@ -10,3 +10,6 @@ Docs and source:
 The below training was provided to the SA team internally. Its a good start for 10 to follow:
 - https://github.com/rh-messaging/amq7-training
 - https://docs.google.com/a/redhat.com/presentation/d/1mu96BX6lmE808vBxDqYAQkqvoXcNvxi8hiyThQ-duTI/edit?usp=sharing
+
+## Concepts
+- ..
